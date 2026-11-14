@@ -54,9 +54,9 @@ The developer connectivity, API debugging proxy, and edge tunneling tooling mark
 
 ## 🔓 Open-Source GitHub Projects
 
-*The open-source ecosystem provides transparent, scriptable, self-hostable, and zero-telemetry alternatives for HTTP interception, security analysis, and local-to-edge tunneling. Sorted in descending order by GitHub Stars.*
+*The open-source ecosystem provides transparent, scriptable, self-hostable, and zero-telemetry alternatives for HTTP interception, security analysis, and local-to-edge tunneling. Sorted in descending order by GitHub_Stars.*
 
-| Project | GitHub Stars | Description | Focus Area |
+| Project | GitHub_Stars | Description | Focus Area |
 |:---|:---:|:---|:---|
 | **[frp](https://github.com/fatedier/frp)** | [![Stars](https://img.shields.io/github/stars/fatedier/frp?style=social&color=white)](https://github.com/fatedier/frp/stargazers) | ⚡ Extremely fast, production-grade reverse proxy written in Go to expose local NAT/firewalled servers to public networks via TCP, UDP, HTTP, and HTTPS. | Edge Tunneling & Ingress |
 | **[mkcert](https://github.com/FiloSottile/mkcert)** | [![Stars](https://img.shields.io/github/stars/FiloSottile/mkcert?style=social&color=white)](https://github.com/FiloSottile/mkcert/stargazers) | 📜 Zero-configuration command-line utility for generating locally trusted SSL/TLS development certificates in OS root trust stores. | Local HTTPS & PKI |
@@ -93,7 +93,7 @@ Contributions, project submissions, and suggestions are welcome!
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/new-tool`.
-3. 📝 Add your tool to the relevant table in **alphabetical or star order**, including name, GitHub repository or official site, description, pricing details, and star badges.
+3. 📝 Add your tool to the relevant table in **alphabetical or star order**, including name, GitHub repository or official site, description, pricing details, and Stars_Badges.
 4. 🚀 Push changes and open a **Pull Request**.
 
 ---
